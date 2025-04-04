@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/Diabetes-Prediction.git
+   git clone https://github.com/HanumeshGupta/Diabetes_Prediction.git
    cd Diabetes-Prediction
    ```
 
